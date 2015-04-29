@@ -1,2 +1,2 @@
 # InfluxDB-Client-LabVIEW
-LabVIEW client for InfluxDB
+LabVIEW client for InfluxDB, LabVIEW version 2013.
