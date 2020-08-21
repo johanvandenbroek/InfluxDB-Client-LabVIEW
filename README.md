@@ -1,6 +1,7 @@
 # InfluxDB-Client-LabVIEW
 LabVIEW client for communication (REST API) with [InfluxDB](http://influxdb.com/) databases.
-LabVIEW version 2013.
+LabVIEW version 2018.
+Tested with InfluxDB 1.8.1
 
 ## Dependencies
 * OpenG Dictionary Library
